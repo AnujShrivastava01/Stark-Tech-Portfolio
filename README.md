@@ -10,7 +10,7 @@
 
 <table align="center">
     <thead align="center">
-        <tr border: 1px;>
+        <tr style="border: 1px;">
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
